@@ -31,12 +31,6 @@ The dataset is clean and does not contain any missing values, eliminating the ne
 ## Contents
 - `diabetes.csv`: CSV file containing the dataset.
 - `diabetes_prediction.ipynb`: Jupyter Notebook containing code for diabetes prediction using logistic regression.
-- `README.md`: This file providing an overview of the repository.
-
-## Usage
-1. Clone the repository to your local machine: `git clone https://github.com/your_username/diabetes-prediction.git`
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Open and run the Jupyter Notebook `diabetes_prediction.ipynb` to analyze the code and make predictions.
 
 ## Dependencies
 - Python 3.x
